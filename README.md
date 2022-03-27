@@ -15,7 +15,7 @@
 </div>
 
 ### :raising_hand_woman: About Me :
-I am a Frontend Junior Developer 
+I am Junior Frontend Developer 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 from Russia.
 - :office: I’m 18 years old, I’m studying at college, but already has intership experience.
