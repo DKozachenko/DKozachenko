@@ -17,7 +17,6 @@
 ### About Me:
 I am Middle Frontend Developer 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-from Russia.
 - :office: I love Angular and its ecosystem but sometimes I code with React.
 
 - :pen: I love raccoons.
