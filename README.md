@@ -15,7 +15,7 @@
 </div>
 
 ### About Me:
-I am Middle Frontend Developer 
+I am Frontend Developer 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :office: I love Angular and its ecosystem but sometimes I code with React.
 
